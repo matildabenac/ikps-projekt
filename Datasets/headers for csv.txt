@@ -1,0 +1,1 @@
+mcg,gvh,alm,mit,erl,pox,vac,nuc,class_protein_localization
